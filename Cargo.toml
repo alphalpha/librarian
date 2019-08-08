@@ -1,0 +1,11 @@
+[package]
+name = "librarian"
+version = "0.1.0"
+authors = ["Christian Dietz <christian@sineswingers.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.33"
+env_logger = "0.6.2"
+id3 = "0.3"
+log = "0.4.8"
